@@ -1,0 +1,6 @@
+bin/
+*.ds_store
+lib/
+*.jar
+.idea/
+local.properties
